@@ -6,7 +6,7 @@ This is a One-Stop solution real-time project on SonarQube to perform Code Quali
 
 - [Docker Playlist](https://www.youtube.com/playlist?list=PLs-PsDpuAuTeNx3OgGQ1QrpNBo-XE6VBh)
 - [Explore AWS Tutorials](https://www.youtube.com/playlist?list=PLs-PsDpuAuTdOcZa-DDgG8KRbtMI_XRrC)
-- [Nexus YouTube Video Link](https://youtu.be/opJAfDOCZuI)
+- [Sonarqube YouTube Video Link]([https://youtu.be/opJAfDOCZuI](https://www.youtube.com/watch?v=ScdedztTaAU))
 
 ## 🤝 Connect with Me
 
